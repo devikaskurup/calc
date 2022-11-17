@@ -1,0 +1,21 @@
+.container{
+    height: 300px;
+    width: 500px;
+    background-color: rgb(218, 218, 16);
+    position: relative;
+    border-radius: 0 400px 400px 0;
+    margin-left: 100px;
+    top: 30px;
+    z-index: 1;
+    text-align: center;
+    
+}
+.content{
+    height: 298px;
+    width: 500px;
+    position: absolute;
+    background-color: rgba(0, 0, 255, 0.785);
+    margin-left: 300px;
+    top: 50px;
+    text-align: right
+}
